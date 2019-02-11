@@ -1,0 +1,7 @@
+rootProject.name = 'TensorIOExample'
+include ':react-native-tensorio'
+project(':react-native-tensorio').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-tensorio/android')
+include ':react-native-image-picker'
+project(':react-native-image-picker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-image-picker/android')
+
+include ':app'

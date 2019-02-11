@@ -1,0 +1,14 @@
+platform :ios, '9.3'
+
+target 'TensorIOExample' do
+  use_frameworks!
+
+  pod 'TensorIO'
+
+  pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
+
+  target 'TensorIOExampleTests' do
+    inherit! :search_paths
+  end
+
+end

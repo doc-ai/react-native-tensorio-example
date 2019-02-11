@@ -1,0 +1,6 @@
+framework module Pods_TensorIOExampleTests {
+  umbrella header "Pods-TensorIOExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
