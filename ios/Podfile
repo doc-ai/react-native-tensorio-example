@@ -5,8 +5,6 @@ target 'TensorIOExample' do
 
   pod 'TensorIO'
 
-  pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
-
   target 'TensorIOExampleTests' do
     inherit! :search_paths
   end
