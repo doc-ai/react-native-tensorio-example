@@ -1,6 +1,6 @@
 PODS:
   - TensorFlowLite (1.12.0)
-  - TensorIO (0.3.2):
+  - TensorIO (0.4):
     - TensorFlowLite
 
 DEPENDENCIES:
@@ -13,8 +13,8 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   TensorFlowLite: e81aef029750aa46b42ad16553fa4cddd81498cc
-  TensorIO: ccbf1d831a69bc5fcbcf13475e21d5177bee8f90
+  TensorIO: 9b339d207f9b9dd1c378a4be9b0b68c5b6bc5de8
 
 PODFILE CHECKSUM: 1e1b8fd4d2e850e9e2295986d6742b3904d54e38
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.6.0
