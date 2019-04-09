@@ -9,8 +9,8 @@
   "dependencies": {
     "react": "16.6.3",
     "react-native": "0.58.4",
-    "react-native-image-picker": "^0.28.0",
-    "react-native-tensorio": "^0.1.2"
+    "react-native-image-picker": "^0.28.1",
+    "react-native-tensorio": "^0.2.0"
   },
   "devDependencies": {
     "babel-core": "7.0.0-bridge.0",
