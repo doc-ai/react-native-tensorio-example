@@ -18,7 +18,7 @@ In the root directory:
 
 In the iOS directory:
 
-- Install Pods: `gem install cocoapods`
+- Install CocoaPods: `gem install cocoapods`
 - Install Pods: `pod install`
 - Launch: `open TensorIOExample.xcworkspace`
 
@@ -39,7 +39,7 @@ $ react-native link
 
 If react-native link does not successfully link the installed packages, [manually link them](https://facebook.github.io/react-native/docs/linking-libraries-ios).
 
-Install [coocpoads](https://cocoapods.org/) if you do not already have it. Initialize a podfile and add the TensorIO dependency:
+Install [cocoapods](https://cocoapods.org/) if you do not already have it. Initialize a podfile and add the TensorIO dependency:
 
 ```bash
 $ cd ios
