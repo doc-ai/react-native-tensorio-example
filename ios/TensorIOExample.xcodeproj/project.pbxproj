@@ -41,7 +41,7 @@
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		A0BDE697F3964DB0AA2CCE9A /* libRNTensorIO.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2AC1A2DE95B74A0BB40AEFB3 /* libRNTensorIO.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
-		E31220CA22120058001F165C /* image-classification.tfbundle in Resources */ = {isa = PBXBuildFile; fileRef = E31220C922120058001F165C /* image-classification.tfbundle */; };
+		E31220CA22120058001F165C /* image-classification.tiobundle in Resources */ = {isa = PBXBuildFile; fileRef = E31220C922120058001F165C /* image-classification.tiobundle */; };
 		E3122104221201D8001F165C /* libRNImagePicker.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E3122102221201B2001F165C /* libRNImagePicker.a */; };
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
 		ED2971652150620600B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED2971642150620600B7C4FE /* JavaScriptCore.framework */; };
@@ -372,7 +372,7 @@
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
 		CE179CCCC2F58BE7924B2B5F /* Pods-TensorIOExampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TensorIOExampleTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TensorIOExampleTests/Pods-TensorIOExampleTests.debug.xcconfig"; sourceTree = "<group>"; };
 		CE429A76E096378BF9526038 /* Pods-TensorIOExampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TensorIOExampleTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TensorIOExampleTests/Pods-TensorIOExampleTests.release.xcconfig"; sourceTree = "<group>"; };
-		E31220C922120058001F165C /* image-classification.tfbundle */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "image-classification.tfbundle"; sourceTree = "<group>"; };
+		E31220C922120058001F165C /* image-classification.tiobundle */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "image-classification.tiobundle"; sourceTree = "<group>"; };
 		E31220D8221201B2001F165C /* RNImagePicker.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RNImagePicker.xcodeproj; path = "../node_modules/react-native-image-picker/ios/RNImagePicker.xcodeproj"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
@@ -527,7 +527,7 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
-				E31220C922120058001F165C /* image-classification.tfbundle */,
+				E31220C922120058001F165C /* image-classification.tiobundle */,
 			);
 			name = TensorIOExample;
 			sourceTree = "<group>";
@@ -1159,7 +1159,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E31220CA22120058001F165C /* image-classification.tfbundle in Resources */,
+				E31220CA22120058001F165C /* image-classification.tiobundle in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 			);

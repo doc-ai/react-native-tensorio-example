@@ -56,5 +56,5 @@ Update App.js (see App.js).
 
 Open TensorIOExample.xcworkspace and add the *image-classification.tfbundle* folder to it (see ios/image-classification.tfbundle). This is a TensorFlow Lite image classification model that has been packaged into a TensorIO bundle.
 
-Run the app. If you would like to run the application on a physical device you will probably need do update your code signing identities.
+Run the app. If you would like to run the application on a physical device you will probably need to update your code signing identities.
 
