@@ -2,6 +2,16 @@
 
 An example application for our [react-native-tensorio](https://github.com/doc-ai/react-native-tensorio) package that shows how to use a computer vision model for TensorFlow Lite and TensorIO inside a React Native application.
 
+<span style="color:red;">**DEPRECATED**</span>
+
+See instead:
+
+https://github.com/doc-ai/react-native-tensorio-tflite
+
+https://github.com/doc-ai/react-native-tensorio-tensorflow
+
+**Learn More**
+
 [Read more about TensorFlow Lite](https://www.tensorflow.org/lite)
 
 [Read more about TensorIO](https://github.com/doc-ai/tensorio-ios)
