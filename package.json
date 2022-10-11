@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.6.3",
-    "react-native": "0.58.4",
+    "react-native": "0.70.2",
     "react-native-image-picker": "^0.28.1",
     "react-native-tensorio": "^0.3.0"
   },
